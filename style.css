@@ -1,0 +1,70 @@
+.meio{
+	text-align: center;
+}
+
+#center {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	width:400px;
+    height:125px;
+    border-radius: 30px;
+    border: 2px solid RGB(152,154,156);
+    background-color: rgb(240,240,240);
+    box-shadow: 8px 8px 8px rgb(30,30,30);
+}
+#aposta {
+	text-align: center;
+	position: relative;
+	margin: 30px;
+
+}
+
+.options {
+	text-align:center;
+	font-style: oblique;
+	font-family: verdana;
+	font-size: 30px;
+}
+.meio{
+	font-family: verdana;
+	font-size: 30px;
+	text-align: center;
+	color: white;
+	text-decoration:line-style: dashed;
+	text-shadow: 0px 0px 0px black, 6px 1px 4px black;
+}
+
+.options a {
+	   border: 2px solid RGB(152,154,156);
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background-color:#ffffff;
+	border-radius:6px;
+	border:1px solid: black;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-weight:bold;
+	padding:6px 8px;
+	text-decoration:none;
+	text-shadow:2px 1px 7px #ffffff;
+}
+.options a:hover {
+	background-color:#f6f6f6;
+}
+.options a:active {
+	position:relative;
+	top:3px;
+
+}
+#center p {
+	width: 400px;
+	position: relative;
+	top: auto;
+	font-size: 30px;
+	margin-left: auto;
+	margin-right: auto;
+
+
+}
